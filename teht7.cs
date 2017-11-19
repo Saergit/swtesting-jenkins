@@ -35,7 +35,7 @@ namespace tehtava7
             }
             netto = ennenveroja - verot;
 
-            Console.WriteLine("Bruttffaotulosi on: ");
+            Console.WriteLine("Bruttffaafotulosi on: ");
             Console.WriteLine("Vähennyksien määrä: );
             Console.WriteLine("Verojen osuus: ");
             Console.WriteLine("Nettotulosi on: ");
