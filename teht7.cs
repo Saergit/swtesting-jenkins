@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tehtava7
+namespace jenkinstest
 {
     class Program
     {
@@ -35,7 +35,7 @@ namespace tehtava7
             }
             netto = ennenveroja - verot;
 
-            Console.WriteLine("Bruttffaafotulosi on: ");
+            Console.WriteLine("Bruttotulosi on: ");
             Console.WriteLine("Vähennyksien määrä: );
             Console.WriteLine("Verojen osuus: ");
             Console.WriteLine("Nettotulosi on: ");
