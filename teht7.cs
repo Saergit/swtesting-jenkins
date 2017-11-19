@@ -32,7 +32,6 @@ namespace tehtava7
             {
                 verot = 0.2 * ennenveroja;
             }
-            
             netto = ennenveroja - verot;
 
             Console.WriteLine("Bruttotulosi on: ");
