@@ -1,0 +1,13 @@
+C:\Users\Petsq\Desktop\test\jenkinstest\bin\Debug\jenkinstest.exe.config
+C:\Users\Petsq\Desktop\test\jenkinstest\bin\Debug\jenkinstest.exe
+C:\Users\Petsq\Desktop\test\jenkinstest\bin\Debug\jenkinstest.pdb
+C:\Users\Petsq\Desktop\test\jenkinstest\obj\Debug\jenkinstest.csprojResolveAssemblyReference.cache
+C:\Users\Petsq\Desktop\test\jenkinstest\obj\Debug\jenkinstest.csproj.CoreCompileInputs.cache
+C:\Users\Petsq\Desktop\test\jenkinstest\obj\Debug\jenkinstest.exe
+C:\Users\Petsq\Desktop\test\jenkinstest\obj\Debug\jenkinstest.pdb
+C:\Users\Petsq\Desktop\test\bin\Debug\jenkinstest.exe.config
+C:\Users\Petsq\Desktop\test\bin\Debug\jenkinstest.exe
+C:\Users\Petsq\Desktop\test\bin\Debug\jenkinstest.pdb
+C:\Users\Petsq\Desktop\test\obj\Debug\jenkinstest.csprojResolveAssemblyReference.cache
+C:\Users\Petsq\Desktop\test\obj\Debug\jenkinstest.exe
+C:\Users\Petsq\Desktop\test\obj\Debug\jenkinstest.pdb

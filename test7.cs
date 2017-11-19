@@ -14,13 +14,13 @@ namespace jenkinstest
             int lapset = 0;
 
             Console.WriteLine("Syötä lapsien lukumäärä: ");
-            lapset = int.Parse(Console.ReadLine());
+            lapset = int.Parse(Console.ReadLine())
             Console.WriteLine("Syötä bruttotulo: ");
             brutto = double.Parse(Console.ReadLine());
 
             double vahennykset = 330 + ((double)lapset * 16);
 
-            double ennenveroja = bruttotulo - vahennykset;
+            double ennenveroja = brutto - vahennykset;
 
             double verot = 0;
             double netto = 0;
@@ -42,3 +42,4 @@ namespace jenkinstest
         }
     }
 }
+
