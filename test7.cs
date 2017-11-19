@@ -14,7 +14,7 @@ namespace jenkinstest
             int lapset = 0;
 
             Console.WriteLine("Syötä lapsien lukumäärä: ");
-            lapset = int.Parse(Console.ReadLine())
+            lapset = int.Parse(Console.ReadLine());
             Console.WriteLine("Syötä bruttotulo: ");
             brutto = double.Parse(Console.ReadLine());
 
