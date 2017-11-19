@@ -24,6 +24,7 @@ namespace tehtava7
 
             double verot = 0;
             double netto = 0;
+            
             if (ennenveroja > 20000)
             {
                 verot = 0.3 * ennenveroja;
