@@ -24,7 +24,7 @@ namespace tehtava7
 
             double verot = 0;
             double netto = 0;
-            
+
             if (ennenveroja > 20000)
             {
                 verot = 0.3 * ennenveroja;
@@ -35,7 +35,7 @@ namespace tehtava7
             }
             netto = ennenveroja - verot;
 
-            Console.WriteLine("Bruttotulosi on: ");
+            Console.WriteLine("Bruttffaotulosi on: ");
             Console.WriteLine("Vähennyksien määrä: );
             Console.WriteLine("Verojen osuus: ");
             Console.WriteLine("Nettotulosi on: ");
